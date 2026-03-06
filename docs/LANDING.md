@@ -22,4 +22,4 @@ Developers and QA engineers who work with feature flags and want a fast, visual 
 
 ## Privacy
 
-Sequoia DevTools does **not** collect, store, or transmit any user data. All feature flag information is read locally from the page and never leaves your browser. See the full [Privacy Policy](#) for details.
+Sequoia DevTools does **not** collect, store, or transmit any user data. All feature flag information is read locally from the page and never leaves your browser. See the full [Privacy Policy](https://sokrati-manish.github.io/sequoia-devtools/PRIVACY) for details.
